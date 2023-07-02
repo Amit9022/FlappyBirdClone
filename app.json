@@ -23,10 +23,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.amit9022.flappybird_clone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc22bbe7-1e87-4748-9637-76ab0ff5c158"
+      }
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6234148397207026~3358859453"
   }
 }
